@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/iron_bars_cap",
-    "textures": {
-        "particle": "supplementaries:block/gold_bars",
-        "bars": "supplementaries:block/gold_bars",
-        "edge": "supplementaries:block/gold_bars"
-    }
-}

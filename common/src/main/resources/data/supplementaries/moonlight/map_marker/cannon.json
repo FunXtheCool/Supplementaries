@@ -1,7 +1,0 @@
-
-{
-  "target_block": {
-    "block": "supplementaries:cannon",
-    "predicate_type": "minecraft:block_match"
-  }
-}

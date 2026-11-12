@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "type=double": [
+      {"model": "supplementaries:block/ash_bricks"},
+      {"model": "supplementaries:block/ash_bricks_1"},
+      {"model": "supplementaries:block/ash_bricks_2"},
+      {"model": "supplementaries:block/ash_bricks_3"},
+      {"model": "supplementaries:block/ash_bricks_4"},
+      {"model": "supplementaries:block/ash_bricks_5"},
+      {"model": "supplementaries:block/ash_bricks_6"},
+      {"model": "supplementaries:block/ash_bricks_7"}
+		],
+		"type=bottom": [
+			{"model": "supplementaries:block/ash_bricks_slab"},
+			{"model": "supplementaries:block/ash_bricks_slab1"},
+			{"model": "supplementaries:block/ash_bricks_slab2"},
+			{"model": "supplementaries:block/ash_bricks_slab3"},
+			{"model": "supplementaries:block/ash_bricks_slab4"},
+			{"model": "supplementaries:block/ash_bricks_slab5"},
+			{"model": "supplementaries:block/ash_bricks_slab6"},
+			{"model": "supplementaries:block/ash_bricks_slab7"}
+		],
+		"type=top": [
+			{"model": "supplementaries:block/ash_bricks_slab_top"},
+			{"model": "supplementaries:block/ash_bricks_slab_top1"},
+			{"model": "supplementaries:block/ash_bricks_slab_top2"},
+			{"model": "supplementaries:block/ash_bricks_slab_top3"},
+			{"model": "supplementaries:block/ash_bricks_slab_top4"},
+			{"model": "supplementaries:block/ash_bricks_slab_top5"},
+			{"model": "supplementaries:block/ash_bricks_slab_top6"},
+			{"model": "supplementaries:block/ash_bricks_slab_top7"}
+		]
+	}
+}

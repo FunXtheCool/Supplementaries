@@ -1,0 +1,7 @@
+{
+	"parent": "supplementaries:block/sconce_wall_lever",
+	"textures": {
+		"base": "supplementaries:block/sconce",
+		"torch": "minecraft:block/torch1"
+	}
+}

@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/slab",
-	"textures": {
-		"bottom": "supplementaries:block/brittlestone/brittlestone_brick",
-		"top": "supplementaries:block/brittlestone/brittlestone_brick",
-		"side": "supplementaries:block/brittlestone/brittlestone_brick"
-	}
-}

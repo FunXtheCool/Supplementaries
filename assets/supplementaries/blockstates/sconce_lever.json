@@ -1,0 +1,84 @@
+{
+  "variants": {
+    "lit=true,facing=north,powered=false": [
+      {"model": "supplementaries:block/sconce_wall"},
+      {"model": "supplementaries:block/sconce_wall1"},
+      {"model": "supplementaries:block/sconce_wall2"}
+    ],
+    "lit=true,facing=east,powered=false": [
+      {"model": "supplementaries:block/sconce_wall","y": 90},
+      {"model": "supplementaries:block/sconce_wall1","y": 90},
+      {"model": "supplementaries:block/sconce_wall2","y": 90}
+    ],
+    "lit=true,facing=south,powered=false": [
+      {"model": "supplementaries:block/sconce_wall","y": 180},
+      {"model": "supplementaries:block/sconce_wall1","y": 180},
+      {"model": "supplementaries:block/sconce_wall2","y": 180}
+    ],
+    "lit=true,facing=west,powered=false": [
+      {"model": "supplementaries:block/sconce_wall","y": 270},
+      {"model": "supplementaries:block/sconce_wall1","y": 270},
+      {"model": "supplementaries:block/sconce_wall2","y": 270}
+    ],
+    "lit=false,facing=north,powered=false": [
+      {"model": "supplementaries:block/sconce_wall_off"},
+      {"model": "supplementaries:block/sconce_wall_off1"},
+      {"model": "supplementaries:block/sconce_wall_off2"}
+    ],
+    "lit=false,facing=east,powered=false": [
+      {"model": "supplementaries:block/sconce_wall_off","y": 90},
+      {"model": "supplementaries:block/sconce_wall_off1","y": 90},
+      {"model": "supplementaries:block/sconce_wall_off2","y": 90}
+    ],
+    "lit=false,facing=south,powered=false": [
+      {"model": "supplementaries:block/sconce_wall_off","y": 180},
+      {"model": "supplementaries:block/sconce_wall_off1","y": 180},
+      {"model": "supplementaries:block/sconce_wall_off2","y": 180}
+    ],
+    "lit=false,facing=west,powered=false": [
+      {"model": "supplementaries:block/sconce_wall_off","y": 270},
+      {"model": "supplementaries:block/sconce_wall_off1","y": 270},
+      {"model": "supplementaries:block/sconce_wall_off2","y": 270}
+    ],
+    "lit=true,facing=north,powered=true": [
+    {"model": "supplementaries:block/sconce_wall_lever"},
+    {"model": "supplementaries:block/sconce_wall_lever1"},
+    {"model": "supplementaries:block/sconce_wall_lever2"}
+    ],
+    "lit=true,facing=east,powered=true": [
+      {"model": "supplementaries:block/sconce_wall_lever","y": 90},
+      {"model": "supplementaries:block/sconce_wall_lever1","y": 90},
+      {"model": "supplementaries:block/sconce_wall_lever2","y": 90}
+    ],
+    "lit=true,facing=south,powered=true": [
+      {"model": "supplementaries:block/sconce_wall_lever","y": 180},
+      {"model": "supplementaries:block/sconce_wall_lever1","y": 180},
+      {"model": "supplementaries:block/sconce_wall_lever2","y": 180}
+    ],
+    "lit=true,facing=west,powered=true": [
+      {"model": "supplementaries:block/sconce_wall_lever","y": 270},
+      {"model": "supplementaries:block/sconce_wall_lever1","y": 270},
+      {"model": "supplementaries:block/sconce_wall_lever2","y": 270}
+    ],
+    "lit=false,facing=north,powered=true": [
+      {"model": "supplementaries:block/sconce_wall_off_lever"},
+      {"model": "supplementaries:block/sconce_wall_off_lever1"},
+      {"model": "supplementaries:block/sconce_wall_off_lever2"}
+    ],
+    "lit=false,facing=east,powered=true": [
+      {"model": "supplementaries:block/sconce_wall_off_lever","y": 90},
+      {"model": "supplementaries:block/sconce_wall_off_lever1","y": 90},
+      {"model": "supplementaries:block/sconce_wall_off_lever2","y": 90}
+    ],
+    "lit=false,facing=south,powered=true": [
+      {"model": "supplementaries:block/sconce_wall_off_lever","y": 180},
+      {"model": "supplementaries:block/sconce_wall_off_lever1","y": 180},
+      {"model": "supplementaries:block/sconce_wall_off_lever2","y": 180}
+    ],
+    "lit=false,facing=west,powered=true": [
+      {"model": "supplementaries:block/sconce_wall_off_lever","y": 270},
+      {"model": "supplementaries:block/sconce_wall_off_lever1","y": 270},
+      {"model": "supplementaries:block/sconce_wall_off_lever2","y": 270}
+    ]
+  }
+}

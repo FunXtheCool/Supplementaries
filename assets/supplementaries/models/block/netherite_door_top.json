@@ -1,0 +1,77 @@
+{
+	"textures": {
+		"0": "supplementaries:block/netherite_door_top",
+		"1": "supplementaries:block/door_sides",
+		"particle": "supplementaries:block/netherite_door_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 8, 16],
+			"faces": {
+				"north": {"uv": [0, 8, 3, 16], "texture": "#1"},
+				"east": {"uv": [0, 8, 16, 16], "texture": "#0"},
+				"south": {"uv": [3, 3, 6, 11], "texture": "#1"},
+				"west": {"uv": [0, 8, 16, 16], "texture": "#0"},
+				"up": {"uv": [6, 0, 9, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 8, 0],
+			"to": [3, 10, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
+			"faces": {
+				"north": {"uv": [0, 6, 3, 8], "texture": "#1"},
+				"east": {"uv": [16, 8, 11, 6], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [6, 10, 9, 15], "texture": "#1"},
+				"west": {"uv": [0, 6, 5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 8, 11],
+			"to": [3, 10, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
+			"faces": {
+				"north": {"uv": [3, 3, 6, 8], "texture": "#1"},
+				"east": {"uv": [5, 8, 0, 6], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [6, 6, 9, 8], "texture": "#1"},
+				"west": {"uv": [11, 6, 16, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 10, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 6], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 6], "texture": "#0"},
+				"south": {"uv": [6, 0, 9, 6], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#0"},
+				"up": {"uv": [6, 0, 9, 16], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [3, 0, 6, 16], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [1, 8, 6],
+			"to": [2, 10, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
+			"faces": {
+				"north": {"uv": [6, 6, 7, 8], "texture": "#0"},
+				"east": {"uv": [9, 6, 10, 8], "texture": "#0"},
+				"south": {"uv": [9, 6, 10, 8], "texture": "#0"},
+				"west": {"uv": [6, 6, 7, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 8, 9],
+			"to": [2, 10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -1, 0]},
+			"faces": {
+				"north": {"uv": [9, 6, 10, 8], "texture": "#0"},
+				"east": {"uv": [6, 6, 7, 8], "texture": "#0"},
+				"south": {"uv": [6, 6, 7, 8], "texture": "#0"},
+				"west": {"uv": [9, 6, 10, 8], "texture": "#0"}
+			}
+		}
+	]
+}

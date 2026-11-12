@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "":  [
+    {"model": "supplementaries:block/gravel_bricks"},
+        {"model": "supplementaries:block/gravel_bricks1"},
+        {"model": "supplementaries:block/gravel_bricks2"},
+        {"model": "supplementaries:block/gravel_bricks3"}
+    ]
+  }
+}

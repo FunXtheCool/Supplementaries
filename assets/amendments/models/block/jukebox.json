@@ -1,0 +1,43 @@
+{
+
+	"parent": "minecraft:block/cube_top",
+	"textures": {
+		"needle": "block/jukebox_top",
+		"side": "block/jukebox_side",
+		"top": "amendments:block/jukebox_top",
+		"bottom": "block/crafting_table_bottom",
+		"particle": "block/jukebox_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 15, 16],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 1, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 1, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 1, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 16, 4],
+			"to": [4, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.5, 15.75, 4.5]},
+			"faces": {
+				"up": {"uv": [3, 4, 4, 13], "texture": "#needle", "cullface": "up"},
+				"down": {"uv": [3, 4, 4, 13], "texture": "#needle"}
+			}
+		},
+		{
+			"from": [3, 15, 4],
+			"to": [4, 16, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.5, 15.75, 4.5]},
+			"faces": {
+				"north": {"uv": [3, 4, 4, 5], "texture": "#needle"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#needle"}
+			}
+		}
+	]
+}

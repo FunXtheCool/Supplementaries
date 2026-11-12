@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "lit=true": [
+      {"model": "supplementaries:block/sconce_soul"},
+      {"model": "supplementaries:block/sconce_soul1"},
+      {"model": "supplementaries:block/sconce_soul2"}
+    ],
+    "lit=false": [
+      {"model": "supplementaries:block/sconce_soul_off"},
+      {"model": "supplementaries:block/sconce_soul_off1"},
+      {"model": "supplementaries:block/sconce_soul_off2"}
+    ]
+  }
+}

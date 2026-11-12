@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"up": "supplementaries:block/ash",
+		"north": "supplementaries:block/ashen_basalt1",
+		"south": "supplementaries:block/ashen_basalt1",
+		"west": "supplementaries:block/ashen_basalt1",
+		"east": "supplementaries:block/ashen_basalt1",
+		"particle": "supplementaries:block/ashen_basalt1",
+		"down": "block/basalt_top"
+	}
+}

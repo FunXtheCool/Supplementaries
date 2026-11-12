@@ -1,0 +1,7 @@
+{
+	"parent": "supplementaries:block/sconce",
+	"textures": {
+		"base": "supplementaries:block/sconce_nether_brass",
+		"torch": "supplementaries:block/sconce_fire_nether_brass"
+	}
+}

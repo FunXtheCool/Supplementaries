@@ -1,0 +1,9 @@
+{
+	"match": {
+		"type": "amendments:medium_dragon_fireball"
+	},
+	"luminance": {
+		"type": "lambdynlights:water_sensitive",
+		"out_of_water": 12
+	}
+}

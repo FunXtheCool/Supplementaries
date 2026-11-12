@@ -1,9 +1,0 @@
-{
-  "items": [
-    "minecraft:iron_block"
-  ],
-  "entity_types": [
-    "minecraft:iron_golem"
-  ],
-  "shader": "supplementaries:iron_vision"
-}

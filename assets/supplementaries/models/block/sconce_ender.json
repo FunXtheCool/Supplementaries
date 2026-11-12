@@ -1,0 +1,7 @@
+{
+	"parent": "supplementaries:block/sconce",
+	"textures": {
+		"base": "supplementaries:block/sconce_ender",
+		"torch": "supplementaries:block/sconce_fire_ender"
+	}
+}

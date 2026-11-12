@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {"model": "supplementaries:block/ash_bricks"},
+      {"model": "supplementaries:block/ash_bricks_1"},
+      {"model": "supplementaries:block/ash_bricks_2"},
+      {"model": "supplementaries:block/ash_bricks_3"},
+      {"model": "supplementaries:block/ash_bricks_4"},
+      {"model": "supplementaries:block/ash_bricks_5"},
+      {"model": "supplementaries:block/ash_bricks_6"},
+      {"model": "supplementaries:block/ash_bricks_7"}
+    ]
+  }
+}

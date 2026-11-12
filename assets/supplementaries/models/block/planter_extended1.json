@@ -1,0 +1,9 @@
+{
+	"parent": "supplementaries:block/planter_extended",
+	"textures": {
+		"0": "supplementaries:block/planter_bottom",
+		"1": "supplementaries:block/planter_side",
+		"2": "supplementaries:block/dirt_moist1",
+		"particle": "supplementaries:block/planter_side"
+	}
+}

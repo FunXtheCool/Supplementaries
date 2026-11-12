@@ -1,0 +1,73 @@
+{
+	"textures": {
+		"0": "supplementaries:block/netherite_trapdoor",
+		"1": "supplementaries:block/trapdoor_sides",
+		"particle": "supplementaries:block/netherite_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 0],
+			"to": [16, 16, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 16], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 11, 3, 16], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 11, 3, 16], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [16, 5, 0, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 5, 16, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 13, 11],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 16], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 5], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 5], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [16, 16, 0, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 13, 5],
+			"to": [5, 16, 11],
+			"faces": {
+				"east": {"uv": [0, 5, 3, 11], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 5, 3, 11], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [5, 5, 0, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 5, 5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 13, 5],
+			"to": [16, 16, 11],
+			"faces": {
+				"east": {"uv": [0, 5, 3, 11], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 5, 3, 11], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [16, 5, 11, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 5, 16, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 14, 5],
+			"to": [7, 15, 11],
+			"faces": {
+				"east": {"uv": [9, 5, 10, 11], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [9, 5, 10, 11], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [9, 5, 10, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [6, 5, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 14, 5],
+			"to": [10, 15, 11],
+			"faces": {
+				"east": {"uv": [6, 5, 7, 11], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [6, 5, 7, 11], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [6, 5, 7, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [9, 5, 10, 11], "texture": "#0"}
+			}
+		}
+	]
+}

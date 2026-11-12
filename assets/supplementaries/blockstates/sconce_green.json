@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "lit=true": [
+      {"model": "supplementaries:block/sconce_green"},
+      {"model": "supplementaries:block/sconce_green1"},
+      {"model": "supplementaries:block/sconce_green2"}
+    ],
+    "lit=false": [
+      {"model": "supplementaries:block/sconce_green_off"},
+      {"model": "supplementaries:block/sconce_green_off1"},
+      {"model": "supplementaries:block/sconce_green_off2"}
+    ]
+  }
+}

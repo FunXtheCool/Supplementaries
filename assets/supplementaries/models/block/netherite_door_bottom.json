@@ -1,0 +1,21 @@
+{
+	"textures": {
+		"0": "supplementaries:block/netherite_door_bottom",
+		"1": "supplementaries:block/door_sides",
+		"particle": "supplementaries:block/netherite_door_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 16], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [3, 0, 6, 16], "rotation": 180, "texture": "#1"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [6, 0, 9, 16], "texture": "#1"},
+				"down": {"uv": [6, 0, 9, 16], "texture": "#1"}
+			}
+		}
+	]
+}

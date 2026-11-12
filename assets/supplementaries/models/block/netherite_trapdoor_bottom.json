@@ -1,0 +1,107 @@
+{
+	"textures": {
+		"0": "supplementaries:block/netherite_trapdoor",
+		"1": "supplementaries:block/trapdoor_sides",
+		"particle": "supplementaries:block/netherite_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 5],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 16], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 11, 3, 16], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 11, 3, 16], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [16, 5, 0, 0], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 5, 16, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 11],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 16], "rotation": 270, "texture": "#1"},
+				"east": {"uv": [0, 0, 3, 5], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [0, 0, 3, 16], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 0, 3, 5], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [16, 16, 0, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 16, 16, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 5],
+			"to": [5, 3, 11],
+			"faces": {
+				"east": {"uv": [0, 5, 3, 11], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 5, 3, 11], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [5, 5, 0, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 5, 5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 0, 5],
+			"to": [16, 3, 11],
+			"faces": {
+				"east": {"uv": [0, 5, 3, 11], "rotation": 270, "texture": "#1"},
+				"west": {"uv": [0, 5, 3, 11], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [16, 5, 11, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 5, 16, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 1, 5],
+			"to": [7, 2, 11],
+			"faces": {
+				"east": {"uv": [9, 5, 10, 11], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [9, 5, 10, 11], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [9, 5, 10, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [6, 5, 7, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 1, 5],
+			"to": [10, 2, 11],
+			"faces": {
+				"east": {"uv": [6, 5, 7, 11], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [6, 5, 7, 11], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [6, 5, 7, 11], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [9, 5, 10, 11], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50, 50, 0],
+			"translation": [0, 5, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50, 50, 0],
+			"translation": [0, 5, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"translation": [0, 5, -1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 5, -1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [32, -44, 0],
+			"translation": [0, 0.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

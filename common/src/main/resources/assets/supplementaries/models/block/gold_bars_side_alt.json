@@ -1,8 +1,0 @@
-{
-    "parent": "block/iron_bars_side_alt",
-    "textures": {
-        "particle": "supplementaries:block/gold_bars",
-        "bars": "supplementaries:block/gold_bars",
-        "edge": "supplementaries:block/gold_bars"
-    }
-}

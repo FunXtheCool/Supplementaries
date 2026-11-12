@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "extended=false": [
+      {"model": "supplementaries:block/planter"},
+      {"model": "supplementaries:block/planter1"}
+    ],
+    "extended=true": [
+      {"model": "supplementaries:block/planter_extended"},
+      {"model": "supplementaries:block/planter_extended1"}
+    ]
+  }
+}

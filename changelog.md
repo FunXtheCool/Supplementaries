@@ -1,3 +1,0 @@
-- added redstone lantern
-- added cannnon shoot animations
-- you can damage entities you pass through when shot by a cannon
