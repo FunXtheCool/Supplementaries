@@ -1,7 +1,17 @@
 {
 	"pack": {
 		"pack_format": 34,
-		"supported_formats": [15,34],
+		"supported_formats": [15,88],
 		"description": "Made by FunXtheCool; Ashen x Supplementaries & Amendments"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "overlay_15",
+				"formats": [15, 15],
+				"min_format": [15,0],
+				"max_format": [15,0]
+			}
+		]
 	}
 }
