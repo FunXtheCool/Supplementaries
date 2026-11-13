@@ -1,5 +1,6 @@
 {
-	"textures": {
+	"textures": {		
+		"particle": "minecraft:block/sconce",
 		"base": "supplementaries:block/sconce",
 		"torch": "block/torch"
 	},

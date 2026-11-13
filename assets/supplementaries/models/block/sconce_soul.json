@@ -1,6 +1,7 @@
 {
 	"parent": "supplementaries:block/sconce",
 	"textures": {
+		"particle": "supplementaries:block/sconce_soul",
 		"base": "supplementaries:block/sconce_soul",
 		"torch": "block/soul_torch"
 	},
