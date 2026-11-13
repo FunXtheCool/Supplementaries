@@ -1,0 +1,7 @@
+{
+	"parent": "suppsquared:block/sconce_wall_soul_off_lever",
+	"textures": {
+		"base": "supplementaries:block/sconce_soul",
+		"torch": "minecraft:block/soul_torch1"
+	}
+}
